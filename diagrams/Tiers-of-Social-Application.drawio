@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="QJQXkwXZ-OSzs2ml2RYS">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-1" value="Information Technology Applications &quot;Social&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="350" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-2" value="1 Dimensional App ex. Minesweeper&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- one user&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="59zAM0Z6UQaVklrlsIRZ-1">
+          <mxGeometry y="30" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-3" value="2 Dimensional App ex. Risk Board Game&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- multi-user&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="59zAM0Z6UQaVklrlsIRZ-1">
+          <mxGeometry y="90" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-4" value="3 Dimensional App&amp;nbsp;ex. Rocket League Game&lt;div&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp;- multi-user&lt;/div&gt;&lt;div&gt;&amp;nbsp;- social&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="59zAM0Z6UQaVklrlsIRZ-1">
+          <mxGeometry y="150" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-5" value="4 Dimensional App ex. Francaphones Online&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;- multi-user&lt;/div&gt;&lt;div&gt;&amp;nbsp;- social&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- media sharing&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="59zAM0Z6UQaVklrlsIRZ-1">
+          <mxGeometry y="220" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-6" value="5 Dimensional App ex. AOL&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;- multi-user&lt;/div&gt;&lt;div&gt;&amp;nbsp;- social&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- media sharing&lt;/div&gt;&lt;div&gt;&amp;nbsp;- inter-group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;{race, culture, lang}&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="59zAM0Z6UQaVklrlsIRZ-1">
+          <mxGeometry y="310" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-7" value="6 Dimensional App ex. Meta&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;- multi-user&lt;/div&gt;&lt;div&gt;&amp;nbsp;- social&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- media sharing&lt;/div&gt;&lt;div&gt;&amp;nbsp;- inter-nation&lt;/div&gt;&lt;div&gt;&amp;nbsp;- inter-group&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="59zAM0Z6UQaVklrlsIRZ-1">
+          <mxGeometry y="410" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="59zAM0Z6UQaVklrlsIRZ-8" value="7 Dimensional App ex. Project Blue Sky&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;- multi-user&lt;/div&gt;&lt;div&gt;&amp;nbsp;- social&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- media sharing&lt;/div&gt;&lt;div&gt;&amp;nbsp;- inter-group&lt;/div&gt;&lt;div&gt;&amp;nbsp;- inter-nation&lt;/div&gt;&lt;div&gt;&amp;nbsp;- inter-planet&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="59zAM0Z6UQaVklrlsIRZ-1">
+          <mxGeometry y="530" width="350" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
