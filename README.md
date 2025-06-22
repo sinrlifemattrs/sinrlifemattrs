@@ -4,7 +4,7 @@
 
 1. **Arkna is GodFalcon**
 1. **Ahouna is Friend of Godly Thunderbird**
-1. **Zeefou is Navajo Hogan Hut in Ōjiwã or Ojibeway**
+1. **Zeefou is Navajo Hogan Hut in Ōjiwā or Ojibeway**
 
 Here are some ideas to get you started:
 
