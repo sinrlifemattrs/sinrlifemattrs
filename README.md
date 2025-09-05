@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](/media/arkna-ahouna-zeefou.jpeg)
+![](/20250904_235625.jpg)
 
 1. **Arkna is GodFalcon**
 1. **Ahouna is Friend of Godly Thunderbird**
