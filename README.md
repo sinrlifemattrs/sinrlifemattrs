@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](/AI_Generated_Image_2025-09-05.png.jpg)
+![](/diagrams/silver-surfer.png)
 
 1. **Arkna is GodFalcon**
 1. **Ahouna is Friend of Godly Thunderbird**
