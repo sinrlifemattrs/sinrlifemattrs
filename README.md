@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](/diagrams/keep.png)
+
 ![](/AI_Generated_Image_2025-09-05.png.jpg)
 
 1. **Arkna is GodFalcon**
