@@ -6,6 +6,9 @@
 1. **Ahuna is Friend of Godly Thunderbird**
 1. **Zēfou is Navajo Hogan Hut in Ōjiwā or Ojibeway**
 1. **‘shell shocking occullers since 92'**
+1. [AI Google Summary of the Grandfather Paradox](https://share.google/aimode/lSicnSiE4AZbgQGrD)
+1. ![](/diagrams/tweet-1967563702397526163.png)
+1. ![](/diagrams/tweet-1967564654328373507.png) 
 
 Here are some ideas to get you started:
 
