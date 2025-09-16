@@ -1,19 +1,11 @@
 ## Hi there 👋
 
-![](/diagrams/keep.png)
-
-![](/AI_Generated_Image_2025-09-05.png.jpg)
-
 1. **Arkna is GodFalcon**
 1. **Ahuna is Friend of Godly Thunderbird**
 1. **Zēfou is Navajo Hogan Hut in Ōjiwā or Ojibeway**
 > 
 > **‘shell shocking occullers since 92'**
 > 
-> [AI Google Summary of the Grandfather Paradox](https://share.google/aimode/lSicnSiE4AZbgQGrD)
-> I Solved It, Just Like The Sci-fi Do Not Go Back In Time To Bang Granpa Europeans!
->  ![](/diagrams/tweet-1967563702397526163.png)
-> ![](/diagrams/tweet-1967564654328373507.png) 
 
 Here are some ideas to get you started:
 
