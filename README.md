@@ -1,16 +1,16 @@
 ## Hi there 👋👑🪽
 
-1. **Arkna is GodFalcon** 🦅🪽
-1. **Ahuna is Friend of Godly Thunderbird** 🦅⚡️
-1. **Zēfou is Navajo Hogan Hut in Ōjiwā or Ojibeway** 🏡🛖
+> 1. **Arkna is GodFalcon** 🦅🪽
+> 2. **Ahuna is Friend of Godly Thunderbird** 🦅⚡️
+> 3. **Zēfou is Navajo Hogan Hut in Ōjiwā or Ojibway** 🏡🛖
 > **'YawKings Love Is Permanent'** 👑💗
-1. **Ēdōnī is Weapon of God** 🛡️🌌
-1. **Itīyē is Justice of Heaven [spoken as GraceWrath or Hatred of Sin]** ⚖️🪽
-1. **Akanīya is the Grace and Mercy of Yaw King** 👑🪽
+> 1. **Ēdōnī is Weapon of God** 🛡️🌌
+> 2. **Itīyē is Justice of Heaven [spoken as GraceWrath or Hatred of Sin]** ⚖️🪽
+> 3. **Akanīya is the Grace and Mercy of Yaw King** 👑🪽
 > **‘shell shocking occullers since 92'** 💻😱
-1. **Tōkōwā is Eviscerator of Sinners** 🪦💨
-1. **Fount-banayē is Joy of Freedom From Sin [Fountain of Hatred and Results of Wrath]** 🕊️🪽
-1. **Ēwatnīya is Destroyer of Prolifec Sin [Protector of the Righteous in Wrath and Loss]** 😈🪦
+> 1. **Tōkōwā is Eviscerator of Sinners** 🪦💨
+> 2. **Fount-banayē is Joy of Freedom From Sin [Fountain of Hatred and Results of Wrath]** 🕊️🪽
+> 3. **Ēwatnīya is Destroyer of Prolific Sin [Protector of the Righteous in Wrath and Loss]** 😈🪦
 > **'Wrath is required, when a soul transgresses the passages of heaven' 😈🚫
 
 ### Brief 💼📝
@@ -36,14 +36,29 @@
 > What is wrong with the tech ecosystem? 🤦‍♂️🏞️
 >
 
-### The Proposition 🥚🎼
+> Social-computing addictions problems are growing, and computer
+> related social problems are too per active user. 📈💔
+>
+> What the heck are computers for? 💻⁉️
+> What they heck is the dominating goals of computing? ⏰🏆
+> What is wrong with the tech ecosystem? 🤦‍♂️🏞️
+>
+
+### The Future and the Various Tiers of Social Computing 🧐💗
+
+> We have seen what this can do badly on our own planet!? 🪖🌎
+>
+> What can we do repair our socio-emotional and own digital age? 🤨🤕
+> 
+
+### The Proposition Continued 🥚🎼
 
 > Here's a good example of an Emotional Context Use Case Diagram 🏗️📝
 >
 
 ![](/diagrams/Emotional-Context-Use-Case-Diagram.jpg)
 
-### The Proposition Continued 🐣🤔
+### The Proposition 🐣🤔
 
 > Why does this matter? 🤔🧐
 >
@@ -55,6 +70,9 @@
 >
 > Digitally enhanced pathologies are also. 🤕🤪
 >
+>
+> **[LinkTree](https://linktr.ee/sinrlifemattrs)** **[GitHub](https://github.com/sinrlifemattrs)**
+> **[LastFM](https://www.last.fm/user/sinrlifemattrs)** **[LinkedIn](https://www.linkedin.com/in/sinrlifemattrs/)**
 
 ### The Future and the Various Tiers of Social Computing 🧐💗
 
@@ -75,7 +93,7 @@
 >
 > Essentially we have built beautiful roads and constructed magnificent places to grow without foresight on emotional integrity, safety & growth. 😎⁉️
 >
-> Those who have families, seek healthy lineages, and consumer base, even areligiously, people can agree a moral technical aptitude is vital. 🩺🥶
+> Those who have families, seek healthy lineages, and consumer base, even a-religiously, people can agree a moral technical aptitude is vital. 🩺🥶
 >
 > From a technical vantage a computer is a smart kids hammer, beautiful when used right and rotten when used wrong, recall, reality is foundational. 🧠⁉️
 >
@@ -87,15 +105,15 @@
 >
 > Overall the business world is suffering slightly, quality and worst-case; people lost in addiction. 🖥️🚭
 >
-> Due to the inherent agression and failings of pirate industries, we do not map public social rulings to be reflected digitally. ⚖️⁉️
+> Due to the inherent aggression and failings of pirate industries, we do not map public social rulings to be reflected digitally. ⚖️⁉️
 >
-> A crude example would be the laws surrouding real-world ludity laws versus similar closed-world imagery being shed publicly online. 💩🌪️
+> A crude example would be the laws surrounding real-world nudity laws versus similar closed-world imagery being shed publicly online. 💩🌪️
 >
 > Similar crude examples include: gambling, nudity, violence and more. 💩🔥
 
 #### [Society and Computing?] 👤⚖️
 
-> I truly believe solving this issue, is the same as by-laws and normal regulations in everyday-society. 👤👏
+> I truly believe solving this issue, is the same as bylaws and normal regulations in everyday-society. 👤👏
 >
 > If you look into the itemization of allowed and disallowed behaviour in society, mapping them together from the real-life perspective is good. ⚖️🤞
 >
@@ -125,7 +143,7 @@
 >
 > Low stress and high efficacy computing is important in the user-world as it is in the computing world. 💻👀
 >
-> Why aren't moral-emotional business models involving customer base continuancy aptitude via graphic-modeling or graphic-gravity checking done? 🪐📊
+> Why aren't moral-emotional business models involving customer base continuance aptitude via graphic-modeling or graphic-gravity checking done? 🪐📊
 >
 > A gravity-map of user familiarity, usage and abusing levels could be formed using hashes and-or employee-customer UEBA systems. 🌝💡
 >
